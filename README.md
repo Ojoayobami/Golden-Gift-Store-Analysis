@@ -241,5 +241,6 @@ Performance is strongest in **Electronics**, **East Region**, and **California**
 - Retain top customers via personalized loyalty programs.  
 - Reduce reliance on **Accessories** unless redesigned or bundled.
 
-## Dashboard
+## Main Dashboard
 
+<img width="6055" height="2969" alt="image" src="https://github.com/user-attachments/assets/3b54f30d-edc0-4dd9-9fe9-697fefe95238" />
