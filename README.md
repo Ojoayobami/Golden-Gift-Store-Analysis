@@ -242,5 +242,5 @@ Performance is strongest in **Electronics**, **East Region**, and **California**
 - Reduce reliance on **Accessories** unless redesigned or bundled.
 
 ## Main Dashboard
+<img width="5962" height="2929" alt="image" src="https://github.com/user-attachments/assets/ce2dcedd-1b4a-4e39-84d3-e80d686a0bee" />
 
-<img width="6055" height="2969" alt="image" src="https://github.com/user-attachments/assets/3b54f30d-edc0-4dd9-9fe9-697fefe95238" />
