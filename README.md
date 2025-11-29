@@ -74,14 +74,6 @@ After cleaning and transforming the dataset, an exploratory data analysis was ca
 | **State-Level Contribution Mapping**| Determined high-value locations, with California emerging as the leading state. |
 | **Monthly Trend Visualization**     | Tracked monthly revenue and quantity changes to reveal growth patterns. |
 
-### 📊 Insights Uncovered
-
-- Business performance improved by **+1% YoY** across major KPIs.  
-- **Electronics** remained the strongest product category in revenue, while **Clothing & Apparel** remained the strongest in quantity sold, and **Home and Furniture** remained the strongest in profit.  
-- The **East Region** contributed the highest share of revenue and profit across all regions.  
-- **California** ranked as the top-performing state by total revenue and total profit.  
-- **Michael Smith** emerged as the highest-value customer for the period.  
-- Overall, the business is growing steadily, with consistent performance across months.  
 
 These insights formed the foundation for the final visualizations and strategic recommendations.
 
@@ -99,14 +91,6 @@ Statistical analysis was conducted to understand the relationships between key m
 | **Top Customer & Product Analysis** | Identified which customers and products contributed most significantly to revenue and profit. |
 | **Regional Performance Metrics**    | Analyzed metrics by region to identify high-performing and underperforming areas. |
 
-### 📈 Insights Uncovered
-
-- Revenue and Profit showed a **strong positive correlation**, confirming that higher sales directly impacted profitability.  
-- YoY performance improved by **+1%** across all major KPIs.  
-- Electronics emerged as the **top-performing product category**, contributing the highest revenue.  
-- The **East Region** continued to lead in overall revenue and profit, followed by West and South regions.  
-- Michael Smith remained the **highest-value customer**, driving a notable portion of total revenue.  
-- Statistical trends supported the business’s steady growth and validated strategic focus areas.
 
 These findings informed further visualization, reporting, and data-driven strategic decisions.
 
@@ -130,6 +114,11 @@ Performance is strongest in **Electronics**, **East Region**, and **California**
 
 ---
 
+
+## 🧠 Insights & Recommendation
+
+## 📊 Insights
+
 ### 📈 Monthly Trend Insights
 
 - **November** is the top month for revenue and profit.  
@@ -138,11 +127,9 @@ Performance is strongest in **Electronics**, **East Region**, and **California**
   - Promotional/discount-driven sales  
   - Strong year-end purchasing behavior  
 
-➡️ **Insight:** Business should double down on Q4 marketing — peak revenue period.
+➡️ **Insight:** The business consistently delivers its strongest performance in Q4.
 
-## 🧠 Insights & Recommendation
-
-## 📊 Insights
+---
 
 ### 🌎 Regional Performance Insights
 
@@ -156,7 +143,6 @@ Performance is strongest in **Electronics**, **East Region**, and **California**
   - South is the lowest performer  
 
 ➡️ **Insight:** East drives overall business success — potential for deeper market penetration or premium product push.  
-➡️ **Opportunity:** South region can improve through local promotions and distribution optimization.
 
 ---
 
@@ -178,9 +164,9 @@ Performance is strongest in **Electronics**, **East Region**, and **California**
 - Other top customers:  
   - Michael Williams, Michael Johnson, Christopher Smith, David Smith  
 
-➡️ **Insight:** High-value customers belong to similar demographic clusters (similar names, possibly same region). Retention programs here would be effective.
+➡️ **Insight:** High-value customers belong to similar demographic clusters (similar names, possibly same region).
 
----
+--- 
 
 ### 🛍️ Product Category Insights
 
